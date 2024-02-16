@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Panna Lal",
+        "address" : "ABCD, Delhi",
+        "status": ["pending"],
+        "commodity": "rice"
+    },
+    {
+        "name": "Sukhi Ram",
+        "address": "XYZ, Mumbai",
+        "status": ["clear"],
+        "commodity": "almonds"
+    },
+    {
+        "name": "Raju",
+        "address": "IJK, Rjajsthan",
+        "status": ["done"],
+        "commodity": "arharDaal"
+    },
+   
+] 
